@@ -21,7 +21,7 @@ Lembrando que os princípios SOLID será aplicada de forma adaptativa, pois o JS
 http://localhost:4000/users 
 
 {
-  "name": "Seu Nome",
-  "email": "seu@email.com",
-  "password": "suaSenha123"
+  "name": "Usuário Teste 1",
+  "email": "teste1@user.com.br",
+  "password": "testeUser123"
 }

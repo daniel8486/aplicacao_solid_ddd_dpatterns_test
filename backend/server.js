@@ -1,9 +1,9 @@
 import { app } from './src/app.js';
 import userRoutes from './src/modules/users/presentation/routes.js';
+import { PrismaClient } from '@prisma/client';
 
 app.register(userRoutes);
 
-import { PrismaClient } from '@prisma/client';
 const prisma = new PrismaClient();
 
 app.get('/health', async (req, reply) => {

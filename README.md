@@ -1,8 +1,8 @@
-# Estudo API JS aplicando SOLID, PATTERNS ,TEST e OBSERVALIDADE.
+# Estudo API JS aplicando SOLID, PATTERNS ,TEST e OBSERVABILIDADE.
 
-Projeto utilizando Docker, Node.js, Fastfiy, Prisma, Zod, Grafana, Prometheus, Promtail e mais.  
+Projeto utilizando Docker, Node.js, Fastfy, Prisma, Zod, Grafana, Prometheus, Promtail e mais.  
 
-Lembrando que os princípios SOLID será aplicada de forma adaptativa, pois o JS é dinâmica. 
+Lembrando que os princípios SOLID são aplicados de forma adaptativa, pois JavaScript é uma linguagem dinâmica. 
 
 ## Pré-requisitos 
 
